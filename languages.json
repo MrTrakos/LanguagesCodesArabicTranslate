@@ -1,0 +1,1254 @@
+{
+  "translationLanguages": [
+    {
+      "languageCode": "az",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأذربيجانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "hy",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأرمنية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "as",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأسامية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "es",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الإسبانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "eo",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الإسبرانتو"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "et",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الإستونية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "af",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأفريقانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ak",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأكانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sq",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الألبانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "de",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الألمانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "am",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأمهرية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "en",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الإنجليزية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "id",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الإندونيسية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ur",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأوردية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "om",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأورومية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "or",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأورية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "uz",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأوزبكية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "uk",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأوكرانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ug",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأويغورية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ig",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الإيجبو"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ga",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأيرلندية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "is",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأيسلندية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "it",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الإيطالية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ay",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الأيمارا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ee",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الإيوي"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "eu",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الباسكية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "pt",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البرتغالية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ps",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البشتو"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "bg",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البلغارية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "pa",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البنجابية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "bn",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البنغالية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "bho",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البهوجبورية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "my",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البورمية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "bs",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البوسنية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "pl",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البولندية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "be",
+      "languageName": {
+        "runs": [
+          {
+            "text": "البيلاروسية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ta",
+      "languageName": {
+        "runs": [
+          {
+            "text": "التاميلية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "th",
+      "languageName": {
+        "runs": [
+          {
+            "text": "التايلاندية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "tt",
+      "languageName": {
+        "runs": [
+          {
+            "text": "التترية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "tk",
+      "languageName": {
+        "runs": [
+          {
+            "text": "التركمانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "tr",
+      "languageName": {
+        "runs": [
+          {
+            "text": "التركية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "cs",
+      "languageName": {
+        "runs": [
+          {
+            "text": "التشيكية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ti",
+      "languageName": {
+        "runs": [
+          {
+            "text": "التغرينية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "te",
+      "languageName": {
+        "runs": [
+          {
+            "text": "التيلوغوية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "gl",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الجاليكية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "jv",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الجاوية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ka",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الجورجية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "km",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الخميرية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "xh",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الخوسا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "da",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الدانمركية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ru",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الروسية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ro",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الرومانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "zu",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الزولو"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sm",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الساموائية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sk",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السلوفاكية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sl",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السلوفانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sd",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السندية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sa",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السنسكريتية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "si",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السنهالية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sw",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السواحلية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "st",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السوتو الجنوبية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "nso",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السوتو الشمالية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ts",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السونجا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "su",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السوندانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sv",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السويدية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ceb",
+      "languageName": {
+        "runs": [
+          {
+            "text": "السيبيوانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sn",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الشونا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "sr",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الصربية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "so",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الصومالية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "zh-Hant",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الصينية (التقليدية)"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "zh-Hans",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الصينية (المبسطة)"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "tg",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الطاجيكية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "iw",
+      "languageName": {
+        "runs": [
+          {
+            "text": "العبرية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ar",
+      "languageName": {
+        "runs": [
+          {
+            "text": "العربية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "lg",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الغاندا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "gn",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الغوارانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "gu",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الغوجاراتية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "gd",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الغيلية الأسكتلندية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "fa",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الفارسية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "fr",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الفرنسية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "fy",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الفريزيان"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "fil",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الفلبينية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "fi",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الفنلندية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "vi",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الفيتنامية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ky",
+      "languageName": {
+        "runs": [
+          {
+            "text": "القيرغيزية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "kk",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الكازاخستانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "kn",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الكانادا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ca",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الكتالانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ku",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الكردية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "hr",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الكرواتية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ht",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الكريولية الهايتية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "co",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الكورسيكية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ko",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الكورية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "rw",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الكينيارواندا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "lv",
+      "languageName": {
+        "runs": [
+          {
+            "text": "اللاتفية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "la",
+      "languageName": {
+        "runs": [
+          {
+            "text": "اللاتينية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "lo",
+      "languageName": {
+        "runs": [
+          {
+            "text": "اللاوية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "lb",
+      "languageName": {
+        "runs": [
+          {
+            "text": "اللكسمبورغية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "lt",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الليتوانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ln",
+      "languageName": {
+        "runs": [
+          {
+            "text": "اللينجالا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "mr",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الماراثية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ml",
+      "languageName": {
+        "runs": [
+          {
+            "text": "المالايالامية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "dv",
+      "languageName": {
+        "runs": [
+          {
+            "text": "المالديفية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "mt",
+      "languageName": {
+        "runs": [
+          {
+            "text": "المالطية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ms",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الماليزية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "mi",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الماورية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "mk",
+      "languageName": {
+        "runs": [
+          {
+            "text": "المقدونية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "mg",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الملغاشي"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "mn",
+      "languageName": {
+        "runs": [
+          {
+            "text": "المنغولية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "no",
+      "languageName": {
+        "runs": [
+          {
+            "text": "النرويجية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ny",
+      "languageName": {
+        "runs": [
+          {
+            "text": "النيانجا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ne",
+      "languageName": {
+        "runs": [
+          {
+            "text": "النيبالية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "hmn",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الهمونجية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "hi",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الهندية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "hu",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الهنغارية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ha",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الهوسا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "nl",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الهولندية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "cy",
+      "languageName": {
+        "runs": [
+          {
+            "text": "الويلزية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "ja",
+      "languageName": {
+        "runs": [
+          {
+            "text": "اليابانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "yi",
+      "languageName": {
+        "runs": [
+          {
+            "text": "اليديشية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "yo",
+      "languageName": {
+        "runs": [
+          {
+            "text": "اليوروبا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "el",
+      "languageName": {
+        "runs": [
+          {
+            "text": "اليونانية"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "qu",
+      "languageName": {
+        "runs": [
+          {
+            "text": "كيشوا"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "haw",
+      "languageName": {
+        "runs": [
+          {
+            "text": "لغة هاواي"
+          }
+        ]
+      }
+    },
+    {
+      "languageCode": "kri",
+      "languageName": {
+        "runs": [
+          {
+            "text": "Kri"
+          }
+        ]
+      }
+    }
+  ]
+}
